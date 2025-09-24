@@ -1,8 +1,8 @@
 streamlit
-pandas
-numpy
-plotly
-wordcloud
+pandas==2.3.0
+numpy==2.3.0
+scikit-learn==1.6.1
+wordcloud==1.9.4
 string
 collections
-scikit-learn
+plotly
